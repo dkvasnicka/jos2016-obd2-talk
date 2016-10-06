@@ -1,4 +1,4 @@
-#lang rackjure
+#lang racket
 
 (require plot
          json
